@@ -15,3 +15,6 @@
 
 ## ⛔ Restricciones
 * ***Ninguna.***
+
+## 💻 Compilador
+***MinGW***
