@@ -1,4 +1,6 @@
-# Repositorio de Trabajos Prácticos de Sintaxis y Semántica de los Lenguajes 2024
+# Sintaxis y Semántica de los Lenguajes 2024
+
+### Repositorio de Trabajos Practicos
 
 **Alumno:** Piroso, Juan Ignacio.  
 **Legajo:** 176.092-0.  
